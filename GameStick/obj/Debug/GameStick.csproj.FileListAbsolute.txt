@@ -1,0 +1,7 @@
+D:\Zub\Programming\C#\skillbox\HomeWhork3.10\GameStick\bin\Debug\GameStick.exe.config
+D:\Zub\Programming\C#\skillbox\HomeWhork3.10\GameStick\bin\Debug\GameStick.exe
+D:\Zub\Programming\C#\skillbox\HomeWhork3.10\GameStick\bin\Debug\GameStick.pdb
+D:\Zub\Programming\C#\skillbox\HomeWhork3.10\GameStick\obj\Debug\GameStick.csprojAssemblyReference.cache
+D:\Zub\Programming\C#\skillbox\HomeWhork3.10\GameStick\obj\Debug\GameStick.csproj.CoreCompileInputs.cache
+D:\Zub\Programming\C#\skillbox\HomeWhork3.10\GameStick\obj\Debug\GameStick.exe
+D:\Zub\Programming\C#\skillbox\HomeWhork3.10\GameStick\obj\Debug\GameStick.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStick", "GameStick.csproj", "{E99245F8-F271-45AC-ACA1-34A2A127BAB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E99245F8-F271-45AC-ACA1-34A2A127BAB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E99245F8-F271-45AC-ACA1-34A2A127BAB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E99245F8-F271-45AC-ACA1-34A2A127BAB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E99245F8-F271-45AC-ACA1-34A2A127BAB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70A29CED-0970-427B-BC4A-8DC06964C809}
+	EndGlobalSection
+EndGlobal
